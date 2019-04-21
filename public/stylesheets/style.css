@@ -3,13 +3,14 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-image: url('/images/outbackroadblur1080.png');
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 a {
   color: #00B7FF;
 }
 
-h1, br {
+h1, br{
   font-family: "Bahnschrift", Arial, Helvetica, sans-serif;
   font-size: 72px;
   text-align: center;
