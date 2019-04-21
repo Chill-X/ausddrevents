@@ -1,8 +1,16 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url('/images/outbackroadoutlineblur.png');
+  background-size: cover;
 }
 
 a {
   color: #00B7FF;
+}
+
+h1, br {
+  font-family: "Bahnschrift", Arial, Helvetica, sans-serif;
+  font-size: 72px;
+  text-align: center;
 }
